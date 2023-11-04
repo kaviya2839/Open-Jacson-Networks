@@ -70,7 +70,7 @@ print("----------------------------------------------------------------------")
 
 
 ## Output
-![image](https://github.com/kaviya2839/Open-Jacson-Networks/assets/120553351/f5e52609-7c04-4ad9-a435-05dc105a05e4)
+![image](https://github.com/kaviya2839/Open-Jacson-Networks/assets/120553351/9f0094b2-e2c3-45d5-8729-db6564b65b93)
 
 
 ## Result
